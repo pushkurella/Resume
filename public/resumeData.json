@@ -1,18 +1,18 @@
 {
   "main": {
     "name":"Pushpak Kurella",
-    "occupation":"Chatbot and Full stack developer at The Co-Operators",
-    "description":"I am passionate about learning new things, develop soulutions and applications that reduces human work",
+    "occupation":"Full stack and Chatbot developer",
+    "description":"I am passionate about learning new things, develop solutions and applications that reduces human work",
     "image":"profilepic.jpg",
-    "bio":"I am passionate about learning new things, develop soulutions and applications that reduces human work.",
+    "bio":"I am passionate about learning new things, develop solutions to convoluted problems reducing human work.",
     "contactmessage":"You can contact me here",
     "email": "pushpak.kurella7@gmail.com",
     "phone": "",
     "address":{
-      "street":"37 Vanier dr",
-      "city":"Kitchener",
+      "street":"225 admiral drive",
+      "city":"London",
       "state":"ON",
-      "zip": "N2C 2P6"
+      "zip": "N5V 1H9"
     },
     "website": "https://pushpakkvictory.wixsite.com/resume",
     "resumedownload":"https://www.dropbox.com/s/hbujqgsqc2sl30b/ProfessionalResume.pdf?dl=0",
@@ -63,19 +63,19 @@
         "graduated":"April 2019",
         "description":"I completed post graduation in Mobile Solutions Development course with a GPA of 3.81."
       }
-      // ,
-      // {
-      //   "school":"J.N.T.U.A COllege of Engineering",
-      //   "degree":"Bachelors of Engineering",
-      //   "graduated":"April 2015",
-      //   "description":""
-      // }
+      
     ],
     "work":[
       {
+        "company":"Genpact Headstrong Canada",
+        "title":"Principal Consultant",
+        "years":"July 2021 - till date",
+        "description":"Worked directly with Paypal team on various projects like building convoluted components and creating modules that boost performance of application"
+      },
+      {
         "company":"Tata Consultancy Services Ltd.",
         "title":"Systems Developer",
-        "years":"September 2015 - December 2017",
+        "years":"September 2018 - July 2021",
         "description":"Acquired solid knowledge and worked on Microsoft DOT NET Framework, C# ASP.NET MVC, SSRS, Windows Forms application, etc."
       },
       {
@@ -127,7 +127,7 @@
         "level":"85%"
       },
       {
-        "name":"Illustrator",
+        "name":"Adobe Illustrator",
         "level":"55%"
       }
     ]
@@ -135,42 +135,34 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wander",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Message Encryption",
+        "category":"Android app with more than 10k+ downloads",
         "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://play.google.com/store/apps/details?id=com.pushpakkurella.messageencryption&pcampaignid=web_share"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"Tic Tac Toe",
+        "category":"The infamoust, fun and interactive game",
         "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://play.google.com/store/apps/details?id=com.tac.tic.toe.ttt.hellotic&pcampaignid=web_share"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "title":"Pushpak Launcher ;)",
+        "category":"Simple chrome extension plugin used for launching my own stuff",
         "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"https://chrome-stats.com/d/ghhinaobgpopnkiifilbbdflcnagcano"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Pushpak is highly skilled developer with good technical knowledge and critical thinking. Friendly and down to earth attitude.",
-        "user":"Madhuri Varudu"
+        "text":"I strongly recommend Pushpak as a highly dedicated and proficient software engineer. Throughout our year of collaboration, he consistently demonstrated a strong work ethic, reliability, and ability to deliver results. Pushpak approaches tasks with precision and enthusiasm, excelling in problem-solving and fostering seamless teamwork with other teams at PayPal. He met deadlines and significantly contributed to critical projects, showcasing his technical skills and a positive attitude. Pushpak is a reliable, results-oriented professional who brings both expertise and a collaborative spirit to any team. wholeheartedly endorse him for his exceptional work and impactful contributions.",
+        "user":"Daniel Aguilera Terazzas"
+      },
+      {
+        "text":"Pushpak has been an great asset to our team, quickly ramping up on PayPal specific tooling, learning our tech stack, and being a productive and collaborative member of our team from the get-go. As a platform team, we interface a lot with other stakeholders to ensure we're supporting their needs. Pushpak is always in our support channels answering questions, creating tickets to track feature requests and bugs, and proactively improving our tooling to fill in gaps that he came across on his own. The team and I also really appreciate his warm, can-do attitude and pragmatic approach to solving problems. He's also always cordial and active in the code review process, open to feedback, and tactful in giving feedback, too. I can't recommend Pushpak enough! 🎉",
+        "user":"Titus Woo"
       }
     ]
   }
